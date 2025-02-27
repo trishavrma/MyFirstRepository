@@ -1,0 +1,12 @@
+<html>
+    <head>
+        <title>CS24182</title>
+    </head>
+<body>
+<p style = "background-color: pink; color: red;"align ="center">Welcome to my first webpage</p>
+<p align ="left"> my first webpage</p>
+<p align ="right"> my first webpage</p>
+<p align ="justify"> my first webpage</p>
+<img src="Downloads/images.jpeg" alt="Flowers">
+</body>
+</html>
