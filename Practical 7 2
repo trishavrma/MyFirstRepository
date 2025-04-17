@@ -1,0 +1,12 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="abt.css">
+    </head>
+    <body>
+        <ul>
+            <H1> About </H1>
+            <li> Trisha Verma </li>
+            <li> CS24182 </li>
+        </ul>
+    </body>
+</html>
